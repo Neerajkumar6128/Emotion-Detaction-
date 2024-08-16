@@ -1,1 +1,2 @@
-# Emotion-Detaction-
+# Emotion-Detaction-from-Facial-Expressions-
+The "Emotion Detection from Facial Expressions" project aims to develop a system that accurately identifies human emotions by analyzing facial expressions using machine learning and computer vision techniques. This system captures facial features, processes them in real-time, and classifies the user's emotions into categories such as happiness, sadness, anger, surprise, fear, and disgust.
